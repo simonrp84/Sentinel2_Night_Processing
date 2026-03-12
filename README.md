@@ -1,4 +1,4 @@
-# Sentinel2_Night_Processing
+# Sentinel-2 Night Processing
 A repository containing the scripts used to process the December 2025 S2A night acquisitions from L1B into geolocated, calibrated and aggregated per-band radiance images.
 
 Please note: These scripts were intially intended for internal use only, and are therefore not fully commented or robust for use across multiple platforms or systems. Pull requests and issues are welcome to help make these scripts more useful.
